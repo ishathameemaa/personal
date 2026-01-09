@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 const memories = [
   {
-    img: "../../src/assets/first-meet.png",
+    img: "../../public/assets/first-meet.png",
     text: "The first time I saw you, my heart skipped a beat 💓",
     story: `It was orientation day at my college for CMA & ACCA.
 I was sitting quietly, listening, trying to absorb everything about this new beginning.
