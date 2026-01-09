@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 // ✅ IMPORT IMAGE PROPERLY
-import memoryImg from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.34 AM.jpeg"; 
+import memoryImg from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.34 AM.jpeg"; 
 // ⬆️ rename your image to memory.jpeg (no spaces)
 
 export default function Opening() {

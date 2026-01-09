@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 const memories = [
   {
-    img: "../../public/assets/first-meet.png",
+    img: "/assets/first-meet.png",
     text: "The first time I saw you, my heart skipped a beat 💓",
     story: `It was orientation day at my college for CMA & ACCA.
 I was sitting quietly, listening, trying to absorb everything about this new beginning.
@@ -29,7 +29,7 @@ An innocent moment from orientation day,
 now a memory I’ll always remember with a smile 🤍`,
   },
   {
-    img: "../../src/assets/first-meet1.png",
+    img: "/assets/first-meet1.png",
     text: "I was pretending to be calm, but inside I was so nervous 😳",
     story: `After the class ended, my heart was still restless.
 Almost without thinking, I walked quickly toward the balcony, hoping—just hoping—to catch another glimpse of you.
@@ -46,7 +46,7 @@ Sometimes, feelings don’t need to be noticed to be real.
 That quiet moment on the balcony became another gentle memory I kept just for myself 🤍`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 105158.png",
+    img: "/assets/Screenshot 2026-01-08 105158.png",
     text: "Your smile made everything around me feel lighter 💕",
     story: `When I reached home, my mind was still stuck at college… stuck on you.
 I tried to distract myself, but my heart had other plans.
@@ -65,7 +65,7 @@ I felt blushy, happy, and slightly embarrassed at myself—but I didn’t want t
 That night, I realized my crush wasn’t just a moment anymore—it had turned into something sweeter, something real 🤍`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 110401.png",
+    img: "/assets/Screenshot 2026-01-08 110401.png",
     text: "That moment felt simple, yet so magical ✨",
     story: `That night, my heart gathered a little courage.
 I opened the chat, typed your name, and slowly wrote a message. My fingers hovered over the screen, my heart racing faster with every word.
@@ -87,7 +87,7 @@ So I decided not to message you.
 Not because I didn’t care… but because I cared too much 🤍`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 110246.png",
+    img: "/assets/Screenshot 2026-01-08 110246.png",
     text: "I remember thinking… I hope this moment never ends ❤️",
     story: `I still feel nervous…
 and I stay quiet.
@@ -102,7 +102,7 @@ still quiet…
 but feeling everything 🤍`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 105326.png",
+    img: "/assets/Screenshot 2026-01-08 105326.png",
     text: "I remember thinking… I hope this moment never ends ❤️",
     story: `That night, I lay in bed, my thoughts drifting back to you.
 I kept replaying the way you looked at me—the calm eyes, the quiet presence, that brief moment that stayed in my heart longer than it should have.
@@ -113,7 +113,7 @@ And I fell asleep…
 thinking of the way you looked at me 🤍✨`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 111139.png",
+    img: "/assets/Screenshot 2026-01-08 111139.png",
     text: "Every word you spoke made me feel more connected to you 💖",
     story: `The next night, my heart felt heavier than before.
 I kept thinking… What if I stay quiet forever?
@@ -134,7 +134,7 @@ That night, courage and fear sat together in my heart…
 and I gathered the strength to let love speak, even if it was through a screen 🤍✨`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 110351.png",
+    img: "/assets/Screenshot 2026-01-08 110351.png",
     text: "I didn’t know it then, but this was the start of us 💫",
     story: `When I finally gathered the courage and confessed, his reply came softly—but it changed everything.
 
@@ -164,7 +164,7 @@ Not every love story is meant to be completed.
 Some come only to teach us strength, patience, and faith.`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 111731.png",
+    img: "/assets/Screenshot 2026-01-08 111731.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story: `After that, he slowly shifted his thoughts back to the beautiful girl he loved.
 His heart belonged there, and he chose to stay true to it.
@@ -185,7 +185,7 @@ And sometimes, peace comes not from getting what we want,
 but from accepting what is meant to be 🤍`,
   },
 {
-    img: "../../src/assets/Screenshot 2026-01-08 113634.png",
+    img: "/assets/Screenshot 2026-01-08 113634.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`Time passed quietly…
 and then one day, everything changed.
@@ -214,7 +214,7 @@ even if it takes a long, confusing path to arrive 🤍`,
 
 
 {
-    img: "../../src/assets/Screenshot 2026-01-08 113645.png",
+    img: "/assets/Screenshot 2026-01-08 113645.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`Time passed quietly…
 and then one day, everything changed.
@@ -242,7 +242,7 @@ even if it takes a long, confusing path to arrive 🤍`,
 },
 
 {
-    img: "../../src/assets/Screenshot 2026-01-08 112353.png",
+    img: "/assets/Screenshot 2026-01-08 112353.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`We planned to meet at the theatre.
 I went with my friend Dinu, and he came with Afsal. We were all going to watch Premalu together.
@@ -262,7 +262,7 @@ That day, the theatre became more than just a place to watch a movie—
 it became a memory I’ll always hold close to my heart 🤍✨`,
 },
 {
-    img: "../../src/assets/Screenshot 2026-01-08 112619.png",
+    img: "/assets/Screenshot 2026-01-08 112619.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`As the movie continued, my heart was already full of emotions.
 Then, in that quiet moment, while the screen glowed in front of us, he leaned closer.
@@ -285,7 +285,7 @@ it gave me a moment my heart will never forget 🤍✨`,
 },
 
 {
-    img: "../../src/assets/Screenshot 2026-01-08 112750.png",
+    img: "/assets/Screenshot 2026-01-08 112750.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`We held each other’s hands tightly
 
@@ -298,17 +298,17 @@ A promise of forever 🤍`,
 
 
 {
-    img: "../../src/assets/Screenshot 2026-01-08 142934.png",
+    img: "/assets/Screenshot 2026-01-08 142934.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`We met somewhere special and shared our happy moments🫂🫂`,
 },
 {
-    img: "../../src/assets/Screenshot 2026-01-08 142912.png",
+    img: "/assets/Screenshot 2026-01-08 142912.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`We had ice cream together 🍦`,
 },
 {
-    img: "../../src/assets/Screenshot 2026-01-08 143139.png",
+    img: "/assets/Screenshot 2026-01-08 143139.png",
     text: "That day gave me a memory I’ll carry for a lifetime 💞",
     story:`We walked together for miles, talking and smiling
 
@@ -317,7 +317,7 @@ We stood side by side and watched the sea in silence 🌊`,
  
 
   {
-    img: "../../src/assets/Screenshot 2026-01-08 144045.png",
+    img: "/assets/Screenshot 2026-01-08 144045.png",
     text: `One day, he left for Dubai.
 
 That day, my house was full—
@@ -340,7 +340,7 @@ because true love doesn’t fade with distance,
 it only waits 🤍✨`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 144150.png",
+    img: "/assets/Screenshot 2026-01-08 144150.png",
     text: `As the days of long distance passed, things slowly became harder.
 We couldn’t talk every day like before. Small misunderstandings turned into fights, not because love was missing—but because we missed each other too much.
 
@@ -358,7 +358,7 @@ love isn’t always about happy calls and constant talks—
 sometimes, it’s about patience, tears, and still choosing each other 🤍`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 144524.png",
+    img: "/assets/Screenshot 2026-01-08 144524.png",
     text: `Later, I made a brave decision.
 I went to Kochi to build my career and stand strong on my own feet.
 
@@ -376,7 +376,7 @@ Two hearts, chasing two careers,
 still holding on to one promise 🤍✨`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 144919.png",
+    img: "/assets/Screenshot 2026-01-08 144919.png",
     text: `As we both became busy building our careers, time slowly slipped away from us.
 We barely got time to talk, to share, or to understand each other like before.
 
@@ -396,7 +396,7 @@ just tired, waiting to be held gently again 🤍`,
  
 
      {
-    img: "../../src/assets/Screenshot 2026-01-08 113004.png",
+    img: "/assets/Screenshot 2026-01-08 113004.png",
     text: `After many fights and misunderstandings, we finally chose love over ego.
 We understood that despite everything, we still loved each other deeply.
 
@@ -414,7 +414,7 @@ Not rushed.
 Just strong, calm, and true 🤍`,
   },
   {
-    img: "../../src/assets/Screenshot 2026-01-08 112957.png",
+    img: "/assets/Screenshot 2026-01-08 112957.png",
   
   },
 

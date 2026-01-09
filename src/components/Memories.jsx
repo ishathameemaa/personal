@@ -1,13 +1,13 @@
-import mem1 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.32 AM.jpeg";
-import mem2 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.31 AM (1).jpeg";
-import mem3 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.32 AM (1).jpeg";
-import mem4 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.32 AM (3).jpeg";
-import mem5 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.35 AM.jpeg";
-import mem6 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.37 AM.jpeg";
-import mem7 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.35 AM (1).jpeg";
-import mem8 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.39 AM.jpeg";
-import mem9 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.38 AM (1).jpeg";
-import mem10 from "../../src/assets/us/WhatsApp Image 2026-01-09 at 11.47.36 AM.jpeg";
+import mem1 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.32 AM.jpeg";
+import mem2 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.31 AM (1).jpeg";
+import mem3 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.32 AM (1).jpeg";
+import mem4 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.32 AM (3).jpeg";
+import mem5 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.35 AM.jpeg";
+import mem6 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.37 AM.jpeg";
+import mem7 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.35 AM (1).jpeg";
+import mem8 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.39 AM.jpeg";
+import mem9 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.38 AM (1).jpeg";
+import mem10 from "/assets/us/WhatsApp Image 2026-01-09 at 11.47.36 AM.jpeg";
 
 import { useNavigate } from "react-router-dom";
 
